@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "J4htzzZibC8yzBDhUmwmpc5LcixrhQdk52NXFnNnYcmFwtugZEPUQqWx6sRkWKCI5P3V2yCUFbtBFJxRMEeL9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\source\\repos\\fingerPaint\\fingerPaint\\fingerPaint\\fingerPaint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\plugin.permissions\\6.0.1\\plugin.permissions.6.0.1.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\skiasharp\\1.68.2.1\\skiasharp.1.68.2.1.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\skiasharp.views.forms\\1.68.2.1\\skiasharp.views.forms.1.68.2.1.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\spillman.xamarin.forms.colorpicker\\1.0.6\\spillman.xamarin.forms.colorpicker.1.0.6.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\xamarin.controls.signaturepad.forms\\3.0.0\\xamarin.controls.signaturepad.forms.3.0.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\fingerPaint\fingerPaint\fingerPaint\bin\Debug\netstandard2.0\fingerPaint.deps.json
+C:\Users\lenovo\source\repos\fingerPaint\fingerPaint\fingerPaint\bin\Debug\netstandard2.0\fingerPaint.dll
+C:\Users\lenovo\source\repos\fingerPaint\fingerPaint\fingerPaint\bin\Debug\netstandard2.0\ref\fingerPaint.dll
+C:\Users\lenovo\source\repos\fingerPaint\fingerPaint\fingerPaint\bin\Debug\netstandard2.0\fingerPaint.pdb
+C:\Users\lenovo\source\repos\fingerPaint\fingerPaint\fingerPaint\obj\Debug\netstandard2.0\fingerPaint.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\fingerPaint\fingerPaint\fingerPaint\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lenovo\source\repos\fingerPaint\fingerPaint\fingerPaint\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lenovo\source\repos\fingerPaint\fingerPaint\fingerPaint\obj\Debug\netstandard2.0\fingerPaint.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\fingerPaint\fingerPaint\fingerPaint\obj\Debug\netstandard2.0\fingerPaint.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\fingerPaint\fingerPaint\fingerPaint\obj\Debug\netstandard2.0\fingerPaint.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\fingerPaint\fingerPaint\fingerPaint\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lenovo\source\repos\fingerPaint\fingerPaint\fingerPaint\obj\Debug\netstandard2.0\fingerPaint.dll
+C:\Users\lenovo\source\repos\fingerPaint\fingerPaint\fingerPaint\obj\Debug\netstandard2.0\ref\fingerPaint.dll
+C:\Users\lenovo\source\repos\fingerPaint\fingerPaint\fingerPaint\obj\Debug\netstandard2.0\fingerPaint.pdb

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:forms="clr-namespace:SignaturePad.Forms;assembly=SignaturePad.Forms" 
+             xmlns:colorPicker="clr-namespace:Spillman.Xamarin.Forms.ColorPicker;assembly=Spillman.Xamarin.Forms.ColorPicker"
+             x:Class="fingerPaint.MainPage">
+
+    <ContentPage.BindingContext>
+        <colorPicker:ColorPickerViewModel />
+    </ContentPage.BindingContext>
+
+    <Frame>
+        <StackLayout>
+            <forms:SignaturePadView StrokeColor="Black"
+                                    BackgroundColor="White"
+                                    StrokeWidth="3"
+                                    WidthRequest="280"
+                                    HeightRequest="360"
+                                    x:Name="Padview">
+
+            </forms:SignaturePadView>
+
+           
+
+            <Button Text="save" x:Name="save" Clicked="save_Clicked"></Button>
+            <Button Text="Clear" x:Name="clear" Clicked="clear_Clicked"></Button>
+            <Button Text="Draw Color" x:Name="color" Clicked="color_Clicked"></Button>
+            <Button Text="Background Color" x:Name="backcolor" Clicked="backcolor_Clicked"></Button>
+            <colorPicker:ColorPickerView x:Name="colorx">
+      
+            </colorPicker:ColorPickerView>
+
+        </StackLayout>
+       
+    </Frame>
+    
+
+</ContentPage>
